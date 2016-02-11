@@ -6,9 +6,9 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 ----config----
 local bot_api_key = "165310340:AAEeIlwDYjoQSrtdfY_SYrZJUL33M0FlBAg"
-local BASE_URL = "https://api.telegram.org/bot165310340:AAEeIlwDYjoQSrtdfY_SYrZJUL33M0FlBAg
+local BASE_URL = "https://api.telegram.org/bot165310340:AAEeIlwDYjoQSrtdfY_SYrZJUL33M0FlBAg"
 -- Base folder like
--- local BASE_FOLDER = "/home/imandaneshi/files/"
+-- local BASE_FOLDER = "/home/teleseed/files/"
 local BASE_FOLDER = ""
 -------
 
